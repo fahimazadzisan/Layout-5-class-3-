@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(252, 74, 74);
+    height: 50px;
+    text-align: center;
+}
+header h1{
+    color: #ffffff;
+    font-size: 20pt;
+    padding-top: 8px;
+    font-family: Montserrat;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
+.topbar {
+    background-color: rgb(255, 152, 56);
+    height: 50px;
+    text-align: center;
+    margin-top: 5px;
+}
+.topbar h1{
+    color: #ffffff;
+    font-size: 15pt;
+    padding-top: 13px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-spacing: 20px;   
+}
+
+.features{
+    background-color: rgb(245, 187, 80);
+    margin-top: 5px;
+    height: 100px;
+    text-align: center;
+}
+.features h1{
+    color: #ffffff;
+    padding-top: 25px;
+    font-size: 30pt;
+    font-family: Montserrat;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 10pt;
+}
+
+.section{
+    background-color: crimson;
+    height: 600px;
+    overflow: hidden;  
+}
+.left{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+.right{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+
+.left-header{
+    background-color: rgb(250, 69, 123);
+    text-align: center;
+    height: 50px;
+    margin: 5px;
+    overflow: hidden;
+}
+.left-header h1{
+    color: #ffffff;
+    padding-top: 14px;
+    font-size: 15pt;
+    font-family: Montserrat;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 10pt;
+}
+
+.article{
+    
+}
+
+.article-header{
+    background-color: rgb(224, 55, 33);
+    height: 60px;
+    text-align: center;
+    margin: 5px;
+}
+.article-header h1{
+    color: #ffffff;
+    padding-top: 18px;
+    font-size: 15pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5pt;    
+}
+
+.article-feature{
+    background-color: rgb(91, 208, 255);
+    height: 60px;
+    text-align: center;
+    margin: 5px;
+}
+.article-feature h1{
+    color: #ffffff;
+    padding-top: 18px;
+    font-size: 15pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5pt;  
+}
+
+.box{
+    overflow: hidden;
+    margin: 5px;
+}
+.leftbox{
+    background-color: darkred;
+    height: 200px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    
+}
+.leftbox h1{
+    color: #ffffff;
+    padding-top: 80px;
+    font-size: 25pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;    
+}
+.rightbox{
+    background-color: rgb(139, 0, 65);
+    height: 200px;
+    width: 50%;
+    float: right;
+    text-align: center;
+    
+}
+.rightbox h1{
+    color: #ffffff;
+    padding-top: 80px;
+    font-size: 25pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase; 
+}
+
+.footer1{
+    background-color: rgb(255, 111, 159);
+    height: 200px;
+    text-align: center; 
+    margin: 5px;
+}
+.footer1 h1{
+    color: #ffffff;
+    padding-top: 85px;
+    font-size: 25pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+.upper{
+    background-color: rgb(5, 137, 214);
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+    overflow: hidden;
+}
+.upper h1{
+    color: #ffffff;
+    padding-top: 85px;
+    font-size: 25pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+.lower{
+    background-color: rgb(214, 5, 197);
+    height: 285px;
+    text-align: center;
+    margin: 5px;
+    
+}
+.lower h1{
+    color: #ffffff;
+    padding-top: 85px;
+    font-size: 25pt;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+footer{
+    background-color: darkslateblue;
+    height: 200px;
+    text-align: center;
+}
+footer h1{
+    color: #ffffff;
+    padding-top: 72px;
+    font-size: 50pt;
+    font-family: roboto;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
